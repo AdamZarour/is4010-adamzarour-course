@@ -2,9 +2,10 @@
 name = "lab09"
 version = "0.1.0"
 edition = "2021"
+description = "Lab 09: Rust Basics - Learn Rust fundamentals with functions and tests"
 
 [dependencies]
-# Add dependencies as needed for your lab
+# No external dependencies needed for this lab
 
 [dev-dependencies]
-# Add test dependencies here
+# No additional test dependencies needed
