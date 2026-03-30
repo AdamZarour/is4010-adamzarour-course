@@ -2,6 +2,7 @@
 name = "lab10"
 version = "0.1.0"
 edition = "2021"
+description = "Lab 10: Mastering Ownership and Borrowing - Learn Rust's memory safety system through hands-on exercises"
 
 [dependencies]
 # Add dependencies as needed for your lab
